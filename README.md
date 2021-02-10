@@ -1,3 +1,6 @@
+----
+Fork with smaller batch sizes to be used as a training benchmark
+----
 
 # minGPT
 
